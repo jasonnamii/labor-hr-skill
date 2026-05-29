@@ -1,6 +1,7 @@
 ---
 name: labor-hr-skill
-description: 한국 노동·HR 법무 7축(근로계약·임금근로시간·해고징계·노조노란봉투법·중대재해산안·괴롭힘모성·퇴직보상) 풀스택 엔진. 케이스→법/판례/사례/옵션 4단으로 노무사·노동변호사 대체 수준 진단·분쟁대응. 2026.5 최신(노란봉투법·통상임금 전합·중대재해 5인 이상·이행강제금 하한) 반영. P1 노동스킬, labor skill, HR스킬, 노무진단, 노무컨설팅, 근로계약, 통상임금, 최저임금, 주52, 포괄임금, 연차, 부당해고, 정리해고, 권고사직, 징계해고, 노란봉투법, 노조법, 단체교섭, 단협, 쟁의, 부당노동행위, 타임오프, 중대재해, 중대재해처벌법, 산안법, 위험성평가, 직장내괴롭힘, 성희롱, 모성보호, 육아휴직, 6+6, 임금체불, 명단공개, 퇴직금, 퇴직연금, IRP, 스톡옵션, 외국인근로자, E-9, 노동위, 이행강제금, 5인미만, 노무제공자, 임금피크제, 전직, 대기발령. P2 노동 진단해줘, 부당해고 받았어, 통상임금 어떻게, 노조 교섭 요구, 괴롭힘 신고 들어왔어, 중대재해 사고, 임금체불 신고, 정리해고 해야 해, 노란봉투법 대응, 단협 갱신, 노동위 답변서. P3 Korean labor law, employment, HR compliance, unfair dismissal, collective bargaining, wage hour, occupational safety, workplace harassment. P4 부당해고 구제신청 접수, 중대재해 직후 24h, 괴롭힘 신고 접수, 통상임금 소급청구, 노조 교섭 요구, 정리해고 추진, 임금체불 진정, 노란봉투법 시행 후, 2026 개정. P5 진단서·대응매뉴얼·답변서 초안·.md. NOT 세무(→tax-skill), 계약(→contract-consulting), 앱법무(→app-and-jang), 홀딩스(→holdings-consulting), 투자(→investment-skill), 조직설계(→management-skill), 협상(→negotiation-skill).
+description: |
+  한국 노동·HR 법무 7축(근로계약·임금근로시간·해고징계·노조노란봉투법·중대재해산안·괴롭힘모성·퇴직보상) 풀스택 엔진. 케이스→법/판례/사례/옵션 4단으로 노무사·노동변호사 대체 수준 진단·분쟁대응. 2026.5 최신(노란봉투법·통상임금 전합·중대재해 5인 이상·이행강제금 하한) 반영. 트리거: 노동스킬, labor skill, HR스킬, 노무진단, 노무컨설팅, 근로계약, 통상임금, 최저임금, 주52, 포괄임금, 연차, 부당해고, 정리해고, 권고사직, 징계해고, 노란봉투법, 노조법, 단체교섭, 단협, 쟁의, 부당노동행위, 타임오프, 중대재해, 중대재해처벌법, 산안법, 위험성평가. NOT: 세무(→tax-skill), 계약(→contract-consulting), 앱법무(→app-and-jang), 홀딩스(→holdings-consulting), 투자(→investment-skill), 조직설계(→management-skill), 협상(→negotiation-skill).
 ---
 
 # labor-hr-skill v1.0 — 한국 노동·HR 7축 풀스택 엔진
